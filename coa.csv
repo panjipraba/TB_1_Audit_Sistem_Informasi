@@ -1,0 +1,17 @@
+NAMA_AKUN,KODE_AKUN,TYPE_AKUN
+Penjualan,4.1.1,PENDAPATAN
+Pendapatan,4.1,PENDAPATAN
+Pendapatan Selisih,4.1.2,PENDAPATAN
+Potongan Penjualan,4.1.3,PENDAPATAN
+Pendapatan lain lain,4.1.4,PENDAPATAN
+PENDAPATAN DILUAR USAHA,4.2,PENDAPATAN
+BEBAN GAJI,6.1,BEBAN
+Gaji,6.1.1,BEBAN
+Lembur,6.1.2,BEBAN
+Bonus,6.1.3,BEBAN
+Tunjangan Tempat Tinggal,6.1.4,BEBAN
+Beban Sewa Gedung,6.2.1,BEBAN
+Beban Sewa Mesin,6.2.2,BEBAN
+Beban Perbaikan & Pemeliharaan Bangunan,6.4.1,BEBAN
+biaya admin,6.12.1,BEBAN
+Beban Internet,6.5.3,BEBAN
